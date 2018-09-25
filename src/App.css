@@ -1,0 +1,51 @@
+/* FONTS
+font-family: 'Chicle', cursive;
+font-family: 'Anton', sans-serif;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+*/
+
+/* COLORS
+#90AFC5 Mist
+#336B87 Stone
+#2A3132 Shadow
+#763626 Autumn Foliage
+*/
+
+body {
+  background-color: #90AFC5; 
+}
+
+/* Heading */
+.title {
+  margin-top: 5px;
+  font-family: 'Anton', sans-serif;
+  color: #336B87;
+}
+
+.subTitle {
+  font-family: 'Anton', sans-serif;
+}
+
+.quote {
+  font-family: 'Chicle', cursive;
+  font-size: 30px;
+  color: #763626;
+}
+
+.author {
+  font-family: 'Chicle', cursive;
+  font-size: 20px;
+  color: #763626;
+}
+
+/* BOOKS */
+.review {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 20px;
+}
+
+.book-image {
+  width: 40%;
+  max-height: 40%;
+}
+
